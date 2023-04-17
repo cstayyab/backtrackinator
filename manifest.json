@@ -14,7 +14,6 @@
         "512": "icons/512.png"
       },
     "permissions": [
-        "history",
         "activeTab",
         "sessions",
         "tabs"
