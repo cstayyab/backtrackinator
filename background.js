@@ -8,6 +8,7 @@ chrome.action.onClicked.addListener(async function (tab) {
     const lastUrl = await getLastUrl(currentUrl);
     if (lastUrl) {
       chrome.tabs.create({ url: lastUrl });
+      chrome.tabs.remove(tab.id)
     }
   }
 });
