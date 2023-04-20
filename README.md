@@ -4,7 +4,7 @@ Never lose your place again! Backtrackinator remembers your last visited page on
 
 ## Installation
 
-Backtrackinator can be installed from the [Chrome Web Store](https://chrome.google.com/webstore/detail/backtrackinator/).
+Backtrackinator can be installed from the [Chrome Web Store](https://chrome.google.com/webstore/detail/backtrackinator/dcfopkiapgjmglehdcolghgchkdnjjog).
 
 ## About
 
